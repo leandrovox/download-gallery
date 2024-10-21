@@ -3,7 +3,8 @@ minha_galeria
 __pycache__/
 *.py[cod]
 *$py.class
-
+venv
+galerias
 # C extensions
 *.so
 
